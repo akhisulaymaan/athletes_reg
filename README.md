@@ -1,5 +1,6 @@
 # athletes_reg
-Full Adelakun Sulaimon Kolawole Slack ID: Akhisulaymaan
+Fullname Adelakun Sulaimon Kolawole 
+Slack ID: Akhisulaymaan
 
 Summary of Git and Github Videos by Tranversy
 
